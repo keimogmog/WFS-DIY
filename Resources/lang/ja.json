@@ -457,7 +457,7 @@
   },
   "arrayHelper": {
     "status": {
-      "ready": "準備完了",
+      "ready": "Ready",
       "calculated": "{count}箇所のスピーカー設置位置を計算しました",
       "applied": "{count}台のスピーカーをArray {array}に適用しました。次のArrayを設定できます。"
     }
